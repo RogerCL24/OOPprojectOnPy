@@ -1,2 +1,2 @@
 # OOPprojectOnPy
-Developing the fundamentals from OOP on Python with a simple project
+Developing the fundamentals from Python's OOP with a simple project
