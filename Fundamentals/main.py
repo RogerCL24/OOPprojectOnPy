@@ -1,6 +1,6 @@
 
 class User():
-    # Data (atributes)
+    # Data (attributes)
     # Constructor
     def __init__(self, na, la, ma, pa, ph):
         self.name = na
