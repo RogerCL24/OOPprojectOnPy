@@ -17,4 +17,4 @@ SampleWork folder -> Simple program using the OOP concepts in python about a CLI
 ![3](https://github.com/RogerCL24/OOPprojectOnPy/assets/90930371/81eefe78-9042-45cb-8be4-3d8fc81fb9e2)
 
 ## 4. EDIT CONTACT
-![4 (1)](https://github.com/RogerCL24/OOPprojectOnPy/assets/90930371/09e0f0ac-9c2e-4df4-bd01-5eb1984a4b2f)
+![4 (1)](https://github.com/RogerCL24/OOPprojectOnPy/assets/90930371/4b242266-f39d-41d0-9347-95870f302072)
