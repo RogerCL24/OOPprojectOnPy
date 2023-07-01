@@ -7,5 +7,8 @@ Class use folder -> How to use a class and what reserved words python use to han
 
 SampleWork folder -> Simple program using the OOP concepts in python about a CLI contact list manager
 
-##            1. ADD CONTACT
+## 1. ADD CONTACT
 ![1](https://github.com/RogerCL24/OOPprojectOnPy/assets/90930371/ad4d3e45-4bfd-4b7b-a22a-906afc296475)
+
+## 2. LIST CONTACTS
+![2](https://github.com/RogerCL24/OOPprojectOnPy/assets/90930371/68f23128-f41d-4a26-a3c4-d0dbca0b6910)
