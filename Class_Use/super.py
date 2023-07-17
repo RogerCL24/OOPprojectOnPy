@@ -22,7 +22,7 @@ class DomesticDog(Dog):
         
     def play(self):
         super().play()
-        print(f"You have a nice dog {self.owner}, he/she running vividly all the way")
+        print(f"You have a nice dog {self.owner}, he/she is running vividly all the way")
 
 dom_dog = DomesticDog("Max", "Pastor aleman", "John Doe")
 
